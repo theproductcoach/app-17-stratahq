@@ -1,0 +1,74 @@
+{
+  "lots": [
+    {
+      "id": 1,
+      "unitNumber": "Unit 1",
+      "ownerName": "John Smith",
+      "residentName": "John Smith",
+      "status": "Owner-occupied"
+    },
+    {
+      "id": 2,
+      "unitNumber": "Unit 2",
+      "ownerName": "Sarah Johnson",
+      "residentName": "Michael Chen",
+      "status": "Tenanted"
+    },
+    {
+      "id": 3,
+      "unitNumber": "Unit 3",
+      "ownerName": "David Wilson",
+      "residentName": "David Wilson",
+      "status": "Owner-occupied"
+    },
+    {
+      "id": 4,
+      "unitNumber": "Unit 4",
+      "ownerName": "Emma Thompson",
+      "residentName": "James Taylor",
+      "status": "Tenanted"
+    },
+    {
+      "id": 5,
+      "unitNumber": "Unit 5",
+      "ownerName": "Robert Brown",
+      "residentName": "Robert Brown",
+      "status": "Owner-occupied"
+    },
+    {
+      "id": 6,
+      "unitNumber": "Unit 6",
+      "ownerName": "Lisa Anderson",
+      "residentName": "Sophie White",
+      "status": "Tenanted"
+    },
+    {
+      "id": 7,
+      "unitNumber": "Unit 7",
+      "ownerName": "Michael Davis",
+      "residentName": "Michael Davis",
+      "status": "Owner-occupied"
+    },
+    {
+      "id": 8,
+      "unitNumber": "Unit 8",
+      "ownerName": "Jennifer Lee",
+      "residentName": "Thomas Martin",
+      "status": "Tenanted"
+    },
+    {
+      "id": 9,
+      "unitNumber": "Unit 9",
+      "ownerName": "William Clark",
+      "residentName": "William Clark",
+      "status": "Owner-occupied"
+    },
+    {
+      "id": 10,
+      "unitNumber": "Unit 10",
+      "ownerName": "Patricia Moore",
+      "residentName": "Alex Johnson",
+      "status": "Tenanted"
+    }
+  ]
+} 
